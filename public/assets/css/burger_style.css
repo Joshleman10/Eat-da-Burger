@@ -1,0 +1,21 @@
+li {
+    padding: 5px;
+    margin: 5px;
+    background: brown;
+  }
+  
+  .label {
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background:green;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
